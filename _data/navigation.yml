@@ -4,4 +4,4 @@ main:
   - title: Blog
     url: '#'
   - title: About
-    url: lorem-ipsum
+    url: /about
