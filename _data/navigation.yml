@@ -3,5 +3,5 @@ main:
     url: 'https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/'
   - title: Blog
     url: '#'
-  - title: lorem-ipsum
+  - title: About
     url: lorem-ipsum
